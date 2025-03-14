@@ -1,4 +1,6 @@
-# Fetch-Analytics-Engineer-Assignment
+# Fetch-Analytics-Engineer-Assignment Solution
+
+## Submitted by: Apoorva Gupta (apoorva.gupta1205@gmail.com)
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
@@ -35,3 +37,7 @@ I have provided the results and my findings in the notebook.
 
 Uploaded my full code as Fetch Take Home Assignment.ipynb file in this repository. I have used SQLite SQL as SQL dialect to write my queries.
 I have provided the data quality issues and its impact in the notebook.
+
+### Fourth: Communicate with Stakeholders
+
+Uploaded my email to product/ business leader as Email.pdf file in this repository.
