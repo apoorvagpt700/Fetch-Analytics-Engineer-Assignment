@@ -23,7 +23,7 @@ The new structured ERD model is normalized, meaning that the data is organized t
 2. 2NF - All non key attributes are dependent on primary key in all tables
 3. 3NF - All non key attributes are independent of each other
 
-Removed the redundant columns like category and categoryCode from brands table in order to maintain the normlaization of the model.
+Removed the redundant columns like category and categoryCode from brands table in order to maintain the normalization of the model.
 
 
 ### Second: Write queries that directly answer predetermined questions from a business stakeholder
