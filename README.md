@@ -1,5 +1,4 @@
 # Fetch-Analytics-Engineer-Assignment
-Fetch Rewards Coding Exercise - Analytics Engineer
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
@@ -23,3 +22,16 @@ The new structured ERD model is normlaized, meaning that the data is organized t
 3. 3NF - All non key attributes are independent of each other
 
 Removed the redundant columns like category and categoryCode from brands table in order to maintain the normlaization of the model.
+
+
+### Second: Write queries that directly answer predetermined questions from a business stakeholder
+
+After creating the structured relational data model, I have used sqlite3 database engine to create the tables in database and insert values.
+
+Uploaded my full code as Fetch Take Home Assignment.ipynb file in this repository. I have used SQLite SQL as SQL dialect to write my queries.
+I have provided the results and my findings in the notebook.
+
+### Third: Evaluate Data Quality Issues in the Data Provided
+
+Uploaded my full code as Fetch Take Home Assignment.ipynb file in this repository. I have used SQLite SQL as SQL dialect to write my queries.
+I have provided the data quality issues and its impact in the notebook.
