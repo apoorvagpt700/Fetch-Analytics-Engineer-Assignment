@@ -18,7 +18,7 @@ Relationships:
 3. brands to receiptItems: 1 to Many - 1 brandId can have 0 to many receiptIds-partnerItemId and 1 receiptIds-partnerItemId  can have only 1 brandId
 4. receipts to receiptItems: 1 to Many - 1 receiptId can have 1 to many receiptIds-partnerItemId and 1 receiptIds-partnerItemId can have only 1 receiptId
 
-The new structured ERD model is normlaized, meaning that the data is organized to reduce redundancy and improve data integrity in following ways:
+The new structured ERD model is normalized, meaning that the data is organized to reduce redundancy and improve data integrity in following ways:
 1. 1NF - All columns contain atmoic values, meaning individual unit of data
 2. 2NF - All non key attributes are dependent on primary key in all tables
 3. 3NF - All non key attributes are independent of each other
